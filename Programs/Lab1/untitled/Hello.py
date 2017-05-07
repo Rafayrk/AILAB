@@ -1,0 +1,5 @@
+#print ("Hello World")
+t=input("Enter value :1\t")
+t2=input("Enter value :2\t")
+t3=int(t)+int(t2)
+print("%s + %s = %d" %(t,t2,t3))
